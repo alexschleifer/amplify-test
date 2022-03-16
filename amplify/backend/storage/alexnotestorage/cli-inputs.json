@@ -1,0 +1,14 @@
+{
+  "resourceName": "alexnotestorage",
+  "policyUUID": "b74296b4",
+  "bucketName": "alex-amplify-note-project",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
